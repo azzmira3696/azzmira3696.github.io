@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="RTKMalaysia", RTK_TV1 
-http://96.44.140.132:18006/view.php?type=m3u8&id=c_58001&key=84797b799ae18d1b 
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
 
 #EXTINF:-1 group-title="RTKMalaysia", RTK_TV1 B
 http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 
 #EXTINF:-1 group-title="RTKMalaysia", RTK_TV2
-http://96.44.140.132:18006/view.php?type=m3u8&id=c_58002&key=84797b799ae18d1b 
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
 #EXTINF:-1 group-title="RTKMalaysia", RTK_TV2 B 
 http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 
 #EXTINF:-1 group-title="RTKMalaysia", RTK_TV3
-http://96.44.140.132:18006/view.php?type=m3u8&id=c_58003&key=84797b799ae18d1b 
+http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:-1 group-title="RTKMalaysia", RTK_TV3 B
 http://live8.cdn.iptv8k.org:80/review_stream/tv3kbmm21/i.m3u8
@@ -31,19 +31,19 @@ https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
 #EXTINF:-1 group-title="RTKMalaysia", RTK_TV7
-http://96.44.140.132:18006/view.php?type=m3u8&id=c_58005&key=84797b799ae18d1b 
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 
 #EXTINF:-1 group-title="RTKMalaysia", RTK_TV7 B
 http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
 
 #EXTINF:-1 group-title="RTKMalaysia",  RTK_TV8
-http://96.44.140.132:18006/view.php?type=m3u8&id=c_58006&key=84797b799ae18d1b 
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
 #EXTINF:-1 group-title="RTKMalaysia",  RTK_TV8 B
 http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
 
 #EXTINF:-1 group-title="RTKMalaysia",  RTK_TV9
-http://96.44.140.132:18006/view.php?type=m3u8&id=c_58007&key=84797b799ae18d1b 
+ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
 #EXTINF:-1 group-title="RTKMalaysia",  RTK_TV9 B
 http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
