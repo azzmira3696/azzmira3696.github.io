@@ -301,13 +301,10 @@ http://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
 #EXTINF:-1 group-title="RTKInternational",  RTK_TV5 Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
-
 #EXTINF:-1 group-title="RTKInternational",  RTK_COOKIE ASIA
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
-
 #EXTINF:-1 group-title="RTKInternational",  RTK_COOKIE TV
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
-
 #EXTINF:-1 group-title="RTKInternational",  RTK_FASHION TV
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="RTKInternational",  RTK_MTV ASIA
